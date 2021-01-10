@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fa5fbc8-b650-41a8-b987-452f6beb4bd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gSztstChGXnWKkDPB1GiehLWry" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.KubaMail-BazaDanych (1)">
+    <configuration name="5_internet1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nie2308" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_internet1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kontrolery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nie2308" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kontrolery.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KubaMail-BazaDanych (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nie2308" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KubaMail-BazaDanych.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KubaMail-BazaDanych" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nie2308" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\LucWr\Dysk Google_Maja\PYTHON\_PYTHON projekty\2308\KubaMail-BazaDanych.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MajaobiektN1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Nie2308" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\LucWr\Dysk Google_Maja\PYTHON\_PYTHON projekty\2308\MajaobiektN1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.KubaMail-BazaDanych (1)" />
+        <item itemvalue="Python.Kontrolery" />
+        <item itemvalue="Python.KubaMail-BazaDanych" />
+        <item itemvalue="Python.MajaobiektN1" />
+        <item itemvalue="Python.5_internet1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fa5fbc8-b650-41a8-b987-452f6beb4bd7" name="Default Changelist" comment="" />
+      <created>1598122999526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598122999526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="256" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600000719816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="256" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1600000719816" />
+    <state x="763" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600165846034">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="763" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1600165846034" />
+    <state width="499" height="438" key="DebuggerActiveHint" timestamp="1599382097029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="499" height="438" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1599382097029" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1600165250086">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1600165250086" />
+    <state width="1515" height="224" key="GridCell.Tab.0.bottom" timestamp="1600005289416">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="224" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1600005289416" />
+    <state width="1515" height="224" key="GridCell.Tab.0.center" timestamp="1600005289416">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="224" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1600005289416" />
+    <state width="1515" height="224" key="GridCell.Tab.0.left" timestamp="1600005289416">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="224" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1600005289416" />
+    <state width="1515" height="224" key="GridCell.Tab.0.right" timestamp="1600005289416">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="224" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1600005289416" />
+    <state width="1515" height="337" key="GridCell.Tab.1.bottom" timestamp="1599919474481">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="337" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1599919474481" />
+    <state width="1515" height="337" key="GridCell.Tab.1.center" timestamp="1599919474481">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="337" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1599919474481" />
+    <state width="1515" height="337" key="GridCell.Tab.1.left" timestamp="1599919474481">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="337" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1599919474481" />
+    <state width="1515" height="337" key="GridCell.Tab.1.right" timestamp="1599919474481">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="337" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1599919474481" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1600339211406">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1600339211406" />
+    <state x="17" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599245705636">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="17" y="153" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1599245705636" />
+    <state x="827" y="0" width="671" height="813" maximized="true" key="dock-window-1" timestamp="1600164997153">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="827" y="0" width="671" height="813" maximized="true" key="dock-window-1/0.0.1536.834@0.0.1536.834" timestamp="1600164997153" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1599911125565">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1599911125565" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4_ile znakow_w_napisie-slownik.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1_DebaderXXX.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1_DebaderXXX.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/9_suma_sum_Cyfr2_CDN.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/8_while_nieskonczona.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1_Debager2.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5_internet1.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

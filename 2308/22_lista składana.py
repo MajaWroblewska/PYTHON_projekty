@@ -1,0 +1,6 @@
+print([x for x in range(10)])
+print([x for x in range(10) if x>5])
+print([x for x in range(10) if x%2==0])
+print([x for x in range(10) if x%2==1])
+print([x for x in range(10) if not x%2])
+a=([x for x in range(10) if not x%2])
