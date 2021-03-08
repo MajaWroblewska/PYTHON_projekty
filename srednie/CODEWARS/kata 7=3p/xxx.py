@@ -38,17 +38,6 @@ print(wiele_slow())
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 f'''or i,x in enumerate(string.ascii_lowercase):
      print(i+1,x)
 

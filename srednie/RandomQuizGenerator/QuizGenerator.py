@@ -7,12 +7,6 @@ import random
 # key - nazwa stanów USA
 # value - stolica stanu
 
-def QuizGenarator(dictionary, student,questions):
-    pass
-# dictionary - dane w postaci słownika
-# stunent - ilość genreowanych plików
-# questions - ilość pytań w teście
-
 capitals = {
     'Alabama':'Montegomery', 'Alaska':'Juneu', 'Arizona':'Phoenix', 'Arkansas':'Little Rock','Kalifornia':'Sacramento',
     'Kolorado':'Denver', 'Connecticut':'Hartford', 'Delaware':'Dover','Floryda':'Tallahassee', 'Georgia':'Atlanta',

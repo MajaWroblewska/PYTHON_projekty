@@ -1,0 +1,27 @@
+Imię i nazwisko:______________________________________________________
+
+Data:_________________________________________________________________
+
+Klasa:________________________________________________________________
+
+
+_____________________Quiz stolic stanów USA nr 1______________________
+
+
+1. Co jest stolicą stanu Idaho?
+	 A. Raleigt
+	 B. Honolulu
+	 C. Boise
+	 D. Jackson
+
+2. Co jest stolicą stanu Nevada?
+	 A. Heena
+	 B. Indianapolis
+	 C. Olimpia
+	 D. Carson City
+
+3. Co jest stolicą stanu Karolina Południowa?
+	 A. Baton Rouge
+	 B. Olimpia
+	 C. Des Moines
+	 D. Columbia
