@@ -90,3 +90,24 @@
 # fun1()
 # print(x) #>>it should print 20 not 50
 #
+def hello(name=''):
+    if name=="":
+        result="Hello, World!"
+    else:
+        # name=name.lower()
+        # name=name.title()
+        result=f'Hello, {name.lower().title()}!'
+    return result
+'''
+def hello(*name):
+    if len(name) == 0:
+        return('Hello, World!')
+    elif name[0] == '':
+        return('Hello, World!')
+    else:
+        return(f'Hello, {name[0].capitalize()}!')
+'''
+print(hello("John"))#, "Hello, John!"),
+print(hello("aLIce"))#, "Hello, Alice!"),
+print(hello(""))#, "Hello, World!"),
+print(hello())#, "Hello, World!")

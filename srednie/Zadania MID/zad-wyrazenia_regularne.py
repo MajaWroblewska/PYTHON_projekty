@@ -1,8 +1,10 @@
-'''sprawż czy nr tel jest poprawny
+'''
+sprawż czy nr tel jest poprawny
 poprawne formaty
 123456789
 +4812356789
-004812356789'''
+004812356789
+'''
 
 
 import  re

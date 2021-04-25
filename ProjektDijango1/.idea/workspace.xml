@@ -1,13 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="565f4f6a-bf3f-4b9d-ab1b-12687b473e5e" name="Default Changelist" comment="" />
+    <list default="true" id="565f4f6a-bf3f-4b9d-ab1b-12687b473e5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 4 =  p/4 Range Extraction----------.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 6=8p/6 IQ Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Highest and Lowest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Letterbox Paint-Squad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../srednie/COVID-19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Obiektowka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Obiektowka/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 5=8p/5-Human Readable Time[Konflikt].py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 6=8p/6 IQ Test-----------.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 6=8p/Are they the same---------.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 6=8p/6 Are they the same---------.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 6=8p/Replace Noun Phrases with Pronouns--------------.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 6=8p/Replace Noun Phrases with Pronouns--------------.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 6=8p/WeIrD StRiNg CaSe--------.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 6=8p/WeIrD StRiNg CaSe--------.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Categorize New Member.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Categorize New Member.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Credit Card Mask.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Credit Card Mask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Highest and Lowest-----------.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Letterbox Paint-Squad---------.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Maximum Multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Maximum Multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Maximum Product.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Maximum Product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Mumbling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Mumbling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Number of People in the Bus.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Number of People in the Bus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Shared Bit Counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Shared Bit Counter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Turkish Numbers, 0-99.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Turkish Numbers, 0-99.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/Word values.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 7=3p/7 Word values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/CODEWARS/kata 8=2p/zamiana 10 na binarny.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/CODEWARS/kata 8=2p/zamiana 10 na binarny.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/RandomQuizGenerator/capitalsQuiz1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/RandomQuizGenerator/capitalsQuiz2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/RandomQuizGenerator/capitalsQuiz_Answers1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/RandomQuizGenerator/capitalsQuiz_Answers2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/RandomQuizGenerator/funQuizGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/RandomQuizGenerator/funQuizGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/Zadania MID/zad-wyrazenia_regularne.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/Zadania MID/zad-wyrazenia_regularne.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/Zadania MID/zadA27-dekorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/Zadania MID/zadA27-dekorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/Zadania MID/zadA28-dekorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/Zadania MID/zadA28-dekorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/Zadania MID/zadA29-dekorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/Zadania MID/zadA29-dekorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/Zadania MID/zadA30-1-dekorator_z_argumentami.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/Zadania MID/zadA30-1-dekorator_z_argumentami.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/Zadania MID/zadA31-dekorator-z-argumentami.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/Zadania MID/zadA31-dekorator-z-argumentami.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/Zadania MID/zadA31trener.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/Zadania MID/zadA31trener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/wyjątki/wyjatek.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/wyjątki/wyjatek.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/wyjątki/zzzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/wyjątki/typowanie-mierzenie czasu funkcji.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../srednie/xxxx.py" beforeDir="false" afterPath="$PROJECT_DIR$/../srednie/xxxx.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Z2SlTzbt26BFpEQHJxMqGpZqr4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

@@ -93,7 +93,7 @@ def QuizGenarator(dictionary, student,questions):
         quizeFile.close()
         answwerKeyFile.close()
 
-QuizGenarator(slownik,2,6)
-QuizGenarator(capitals,2,3)
+# QuizGenarator(slownik,2,6)
+QuizGenarator(capitals,1,3)
 
 

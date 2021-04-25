@@ -20,6 +20,7 @@ def czas(name=True,print_args=True,print_kwargs=True,execution_times=True):
             print(f"stop: {stop}")
             czas=stop-start
             print(f'czas funkcji: {czas} sekund')
+            print(f'Nazwa funkcji: {func.__name__}')
             print("***" * 30)
         return wrapper
     return decorator_czas
@@ -32,3 +33,5 @@ def greet_president(name,a="XXIII"):
 
 greet_president('Maja',a='pierwsza')
 greet_president('Luc')
+
+################################################

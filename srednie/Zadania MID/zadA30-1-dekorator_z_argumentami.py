@@ -19,7 +19,7 @@ def do_twice(func):
 
 
 def czas(func):
-    @wraps(func)        #możemy wypprintować nazwę funkcji
+    @wraps(func)        #możemy wypprintować nazwę funkcji a nie funkcję 'wrapper'
     def wrapper(*args, **kwargs):   # *args bo funkcja greet_president przyjmuje jakąś wartość przy wywołaniu-pozycyjne\
                                     # **kwargs bo może f-cja greet_president by mogła przyjmować argumenty nazwane
         start=time.time()
@@ -32,9 +32,9 @@ def czas(func):
         czas=stop-start
         print(f'czas funkcji: {czas} sekund')   #print(f'czas{time.tine()-start}')
         print(f'Nazwa funkcji: {func.__name__}')
-        print(f'Agruments: {args}')
-        # print(f'Keyword arguments: {[k,v for k,v in kwargs.items()]}')
-        print(f'Keyword arguments: {kwargs}')
+        print(f'Agruments (pozycyjne): {args}')
+
+        print(f'Keyword arguments (nazwane) : {kwargs}')
         print("***" * 30)
         return result
     return wrapper
@@ -44,13 +44,13 @@ def czas(func):
 @do_twice
 def greet_president(name,a="XXIII"):
     print(f'Witam Panie Prezydencie {name} {a}')
-    time.sleep(5)
+    time.sleep(2)
 
 @czas
-def some(a):
-    return a**1000000
+def some(a,b):
+    return a**1000000+b
 
-some(100)
+some(100 ,b=1)
 
-greet_president('Maja',a='pierwsza')
+greet_president(a='pierwsza',name='Maja')
 greet_president('Luc')

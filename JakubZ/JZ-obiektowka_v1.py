@@ -19,10 +19,12 @@ class Telefon(object):
         return self.x + self.y
 
     def age(self):
-        time.sleep(2)
+        time.sleep(4)
         end = datetime.datetime.now()
         return end - self.production_date
 
-Telefon('Samsung', 'Galaxy S9', 5, 10)
+Telefon('Samsung', 'Coop', 4, 10)
 a = Telefon('Samsung', 'Galaxy S9', 5, 10)
 print(a.age())
+print(a.fun())
+

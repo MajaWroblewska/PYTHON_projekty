@@ -10,6 +10,7 @@ def to_weird_case(string):
             i = not i
     return ret
 print('***'*20)
+
 def to_weird_case(string):
     a=string.split()
     print(a)

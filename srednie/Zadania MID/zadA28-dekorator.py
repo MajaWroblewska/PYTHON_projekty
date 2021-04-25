@@ -20,19 +20,22 @@ def do_twice(func):
     return wraper   #zwracanie funkcji to bez nawiasów a wraper() -> wywołanie funkcji
 
 #1-dekorator
-# @do_twice
-# @greet_time
+@do_twice
+@greet_time
 def greet_president():
     print('Witam Panie Prezydencie')
 
-#2-dekorator
-# @greet_time
-# @do_twice
-# def greet_president():
-#     print('Witam Panie Prezydencie')
-
 # greet_president() #musi być z dekoratorami 1 lub 2
 
-do_twice(greet_time(greet_president))()     #to jest dekorator 1
-greet_time(do_twice(greet_president()))()   #to jest dekorator 2
+
+# 2-dekorator
+@greet_time
+@do_twice
+def greet_president():
+    print('Witam Panie Prezydencie')
+
+greet_president() #musi być z dekoratorami 1 lub 2
+
+# do_twice(greet_time(greet_president))()    #to jest dekorator 1
+# greet_time(do_twice(greet_president()))()   #to jest dekorator 2
 

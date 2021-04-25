@@ -6,9 +6,9 @@ oraz bez argumentów. Przetestuj, że dekorator działa z każdą z funkcji.'
 from datetime import datetime
 
 def greet_time(func):
-    def wrapper():
+    def wrapper(*args,**kwargs):
         print(f"New guest arrived at {datetime.now()}")
-        func()
+        func(*args,**kwargs)
         print("----")
     return wrapper
 
@@ -23,13 +23,14 @@ def do_twice(func):
 
 # 1-dekorator
 @do_twice
-# @greet_time
+@greet_time
+# @do_twice
 def greet_president(name):
     print(f'Witam Panie Prezydencie {name}')
 
-greet_president(name='Abraham')
+greet_president(name='Maja')
 
-print(greet_time.__name__)
+# print(greet_time.__name__)
 
 
 

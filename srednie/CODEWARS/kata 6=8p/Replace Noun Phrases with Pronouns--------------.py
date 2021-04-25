@@ -1,4 +1,4 @@
-replaceNounPhrases(sentence, pronouns, dictionary):
+def replaceNounPhrases(sentence, pronouns, dictionary):
     print(sentence)
     print(pr)
 

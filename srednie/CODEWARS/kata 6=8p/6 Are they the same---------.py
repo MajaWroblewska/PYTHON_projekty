@@ -1,4 +1,6 @@
 def comp(array1, array2):
+    if len(array1)==0 and len(array2)==0:
+        out=False
     mapped=map(lambda x: x*x, array1)
     if set(mapped)==set(array2):
        out=True
